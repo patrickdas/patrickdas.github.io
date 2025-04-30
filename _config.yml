@@ -25,7 +25,7 @@ author:
   avatar           : "seattle cherry blossom pic.png"
   name             : "Patrick Das"
   pronouns         :  "he/they"  
-  bio              : "A linguist intersted in contact, cognition and typology"
+  bio              : "A linguist interested in contact, cognition and typology"
   location         : "Boulder"
   employer         : "University of Colorado, Boulder"
   uri              : # URL
@@ -230,6 +230,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:name/
 
 
 # These settings control how pages and collections are included in the site
