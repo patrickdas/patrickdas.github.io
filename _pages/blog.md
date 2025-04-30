@@ -5,4 +5,6 @@ permalink: /blog/
 author_profile: true
 ---
 
-Here you'll find informal updates, reflections, and thoughts from the field.
+Welcome to my blog — a space for updates, reflections, and field notes.
+
+I use this space to share thoughts on fieldwork, documentation, linguistics, and life in between.
