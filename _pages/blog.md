@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: collection
 title: "Blog"
 permalink: /blog/
+collection: blog
 author_profile: true
 ---
 
