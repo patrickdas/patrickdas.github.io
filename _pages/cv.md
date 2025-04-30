@@ -13,7 +13,6 @@ You can also [download my full CV as a PDF](path/to/cv.pdf).
 
 **PhD Linguistics**  
 University of Colorado Boulder, 2022–present  
-GPA: 4.0
 
 **BA Linguistics (High Distinction)**  
 Monash University, Melbourne, 2019–2022
@@ -24,20 +23,6 @@ Monash University, Melbourne, 2019–2022
 
 **ACLS Mellon Dissertation Innovation Fellowship** (2025)  
 Supports innovative dissertation research integrating language documentation, spatial analysis, and community engagement. [Project link](https://www.acls.org/fellow-grantees/patrick-das/)
-
----
-
-## Teaching Experience
-
-**Graduate Student Instructor**  
-University of Colorado Boulder, LING 1020 (Summer 2024)  
-- Designed syllabus, lectures, and assignments for an introductory course on linguistic diversity  
-- Introduced students to descriptive methods and typological comparison across world languages
-
-**Graduate Teaching Assistant**  
-University of Colorado Boulder, LING 1020 & LING 2000 (2022–2024)  
-- Led recitations, graded assignments, and created materials on linguistic analysis, phonology, syntax  
-- Delivered guest lectures on Papuan languages and language typology
 
 ---
 
@@ -54,6 +39,20 @@ University of Colorado Boulder, LING 1020 & LING 2000 (2022–2024)
 ## In Preparation
 
 **Das, Patrick.** *Complex Areas, Complex Answers: Investigating the Structure of Eastern Himalayan Region Numeral Classifiers*
+
+---
+
+## Teaching Experience
+
+**Graduate Student Instructor**  
+University of Colorado Boulder, LING 1020 (Summer 2024)  
+- Designed syllabus, lectures, and assignments for an introductory course on linguistic diversity  
+- Introduced students to descriptive methods and typological comparison across world languages
+
+**Graduate Teaching Assistant**  
+University of Colorado Boulder, LING 1020 & LING 2000 (2022–2024)  
+- Led recitations, graded assignments, and created materials on linguistic analysis, phonology, syntax  
+- Delivered guest lectures on Papuan languages and language typology
 
 ---
 
@@ -96,8 +95,9 @@ English, Hindi, Bengali (native); Sylheti (heritage); Nagamese (learner); Tikhir
 
 ---
 
-## Community & Outreach
+## Other works
 
 - Guest lecture on language contact and ecology in South Asia, UCLA (2025)
+- Roundtable Panelist on 'Politics of Indigineity in Asia' [2023 Asia Symposium](https://www.colorado.edu/cas/2023-asia-symposium-participant-bios)
 - Led a reading group on general vs. particular linguistics (Monash, 2022)  
 - Delivered workshop on citation and academic ethics (Nagaland University, 2022)
