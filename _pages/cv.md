@@ -80,7 +80,7 @@ University of Colorado Boulder, LING 1020 & LING 2000 (2022–2024)
 ## Skills & Proficiencies
 
 **Languages**  
-English, Hindi, Bengali (native); Sylheti (heritage); Nagamese (learner)
+English, Hindi, Bengali (native); Sylheti (heritage); Nagamese (learner); Tikhir, Khiamniungan, Maasai (fieldwork)
 
 **Research Methods**  
 - Typological analysis, elicitation, sociolinguistic interviewing  
@@ -98,5 +98,6 @@ English, Hindi, Bengali (native); Sylheti (heritage); Nagamese (learner)
 
 ## Community & Outreach
 
+- Guest lecture on language contact and ecology in South Asia, UCLA (2025)
 - Led a reading group on general vs. particular linguistics (Monash, 2022)  
 - Delivered workshop on citation and academic ethics (Nagaland University, 2022)
