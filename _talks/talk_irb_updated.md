@@ -1,4 +1,5 @@
 ---
+collection: talks
 layout: single
 title: "From Documentation Project to IRB"
 permalink: /talks/irb/
