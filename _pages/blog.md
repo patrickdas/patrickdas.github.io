@@ -1,8 +1,7 @@
 ---
-layout: collection
+layout: archive
 title: "Blog"
 permalink: /blog/
-collection: blog
 author_profile: true
 ---
 
