@@ -6,7 +6,7 @@ type: "Teaching"
 ---
 
 **Role:** Grader  
-**Term:** Fall 2023  
+**Term:** Spring 2024  
 **Institution:** University of Colorado Boulder
 
 I served as the grader for LING 5430, a graduate-level course in Semantics and Pragmatics. My responsibilities included evaluating assignments on a wide range of topics such as:
