@@ -6,7 +6,7 @@ permalink: /talks/ucla-contact-ecology/
 venue: "Department of Linguistics, UCLA"
 date: 2025-02-10
 location: "Los Angeles, CA"
-excerpt: "A guest lecture on language ecology as a framework for understanding contact, with case studies from South Asia."
+excerpt: "A guest lecture for Astrid DeWit’s Spring 2025 class on Language Contact. I talked about taking a ‘language ecology’ approach to language contact, through 3 case studies in South Asia."
 ---
 
 This guest lecture, delivered for Astrid DeWit's Spring 2025 class on Language Contact at UCLA, explored **language ecology** as a conceptual framework for understanding multilingual contact zones, with a focus on South Asia.
