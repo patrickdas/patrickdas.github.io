@@ -38,7 +38,7 @@ My dissertation focuses on the documentation and spatial analysis of **Tikhir**,
   [Slides / Abstract](https://osf.io/6yzx2/)
 
 - **UCLA Guest Lecture (2025):** Language Contact and Ecology in South Asia  
-  [View mention on CV](/cv/)
+  [more detail](/talks/ucla-contact-ecology//)
 
 ---
 
