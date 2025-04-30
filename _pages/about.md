@@ -6,8 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Patrick Das, a third year PhD student in the Department of Linguistics at CU Boulder.
 
-I'm interested in how human history and cognition interact to shape the patterns of language diversity we see in the world today. My work focuses on introducing multilingual, highly complex scenarios which our current theories in linguistics fail to account for, despite being incredibly common. In the past, this has manifested itself in my research on heritage language maintenance in intra-national diaspora communities in world cities like Delhi, where residents have to navigate their cities using a complex, multifaceted translinguistic repertoire. In my current work, I look at linguistically complex and diverse zones like North-East India (better understood as part of the larger Eastern Himalayan Region), and question whether anthropological areas: areas that have been identified to have long-standing confluence in ecology, culture, language and social norms, also show convergence in linguistic patterns.
+Hi — I’m Patrick Das, a fourth year PhD student in Linguistics at the University of Colorado Boulder.
 
-You can view my current research projects [here](https://patrickdas.github.io/research/).-- 
+I study how human history, geography, and cognition shape patterns of linguistic diversity. My research combines fieldwork, spatial analysis, and typological comparison to understand how languages change under contact — particularly in multilingual, politically complex regions.
+
+My dissertation focuses on [**Tikhir**](https://glottolog.org/resource/languoid/id/tikh1241), a Trans-Himalayan language spoken in eastern Nagaland, India. Working closely with the Tikhir community, I document dialect variation, examine patterns of language shift, and explore how space and place have shaped the language. You can read more about this work [here](/tikhir/). This research is supported by a [2025 Mellon/ACLS Dissertation Innovation Fellowship](https://www.acls.org/fellow-grantees/patrick-das/).
+
+Some of my other research interests are:
+- Areality and contact linguistics
+- Linguistic landscapes and translinguistic repertoires
+- Noun classification and gender systems
+- Modal expressions in language
+
+Outside of linguistics, I enjoy playing chess, making coffee, or spending too much time on Football Manager.
+
+[See my research](/research/) • [Read the blog](/blog/) • [Download CV](/cv/)
