@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Patrick Das"
 title_separator          : "-"
 name                     : &name "Patrick Das"
-description              : &description "my academic website :3"
+description              : &description "Linguist at CU Boulder researching areality, typology, and the Tikhir language"
 url                      : https://patrickdas.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "patrickdas/patrickdas.github.io"
@@ -310,6 +310,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag
 
 # Mimic GitHub Pages with --safe
 whitelist:
