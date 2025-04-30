@@ -1,9 +1,11 @@
 ---
+title: "From Documentation Project to IRB""
 collection: talks
-layout: single
-title: "From Documentation Project to IRB"
-permalink: /talks/irb/
-author_profile: true
+type: "invited talk"
+permalink: /talks/irb
+venue: "Working Group on Language Documentation, Description and Revitalization, CU Boulder"
+date: 2024-10-24
+location: "Boulder, CO"
 ---
 
 ## From Documentation Project to IRB
