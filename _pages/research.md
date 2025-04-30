@@ -22,8 +22,8 @@ My dissertation focuses on the documentation and spatial analysis of **Tikhir**,
 - Contact-driven change and multilingual ecologies
 - Language shift under sociopolitical pressure
 
-🔗 Learn more: [Tikhir documentation project](/tikhir/)  
-🧭 Supported by: [ACLS Dissertation Innovation Fellowship](https://www.acls.org/fellow-grantees/patrick-das/)
+ Learn more: [Tikhir documentation project](/tikhir/)  
+ Supported by: [ACLS Dissertation Innovation Fellowship](https://www.acls.org/fellow-grantees/patrick-das/)
 
 ---
 
@@ -50,7 +50,7 @@ My dissertation focuses on the documentation and spatial analysis of **Tikhir**,
 
 ## Related Pages
 
-- 📚 [Publications & Talks](/cv/) — full list in CV  
-- 🧪 [Blog](/blog/) — for updates and reflections from the field  
-- 👨‍🏫 [Teaching](/teaching/) — learn how I integrate research into pedagogy  
-- 🌍 [About](/about/) — background, interests, and contact info
+-  [Publications & Talks](/cv/) — full list in CV  
+-  [Blog](/blog/) — for updates and reflections from the field  
+-  [Teaching](/teaching/) — learn how I integrate research into pedagogy  
+-  [About](/about/) — background, interests, and contact info
