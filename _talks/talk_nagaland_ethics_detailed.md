@@ -6,7 +6,7 @@ permalink: /talks/nagaland-ethics/
 venue: "Department of Tenyidie, Nagaland University"
 date: 2023-06-15
 location: "Kohima, Nagaland, India"
-excerpt: "An invited talk on academic ethics, citation, and fieldwork methodology delivered at Nagaland University."
+excerpt: "This was a short invited talk on research ethics (such as plagiarism, data citation practices, and fieldwork ethics) and methodology (how to build a research question) at Nagaland University."
 ---
 
 This invited talk, presented to students at Nagaland University, introduced core issues in research ethics and methodology, especially for students beginning independent research or fieldwork.
