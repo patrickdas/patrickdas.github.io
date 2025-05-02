@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi — I’m Patrick Das, a fourth year PhD student in Linguistics at the University of Colorado Boulder.
+Hi! I’m Patrick Das, a fourth year PhD student in Linguistics at the University of Colorado Boulder.
 
 I study how human history, geography, and cognition shape patterns of linguistic diversity. My research combines fieldwork, spatial analysis, and typological comparison to understand how languages change under contact — particularly in multilingual, politically complex regions.
 
