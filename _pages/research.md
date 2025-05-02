@@ -9,7 +9,7 @@ author_profile: true
 
 I study how languages change through contact — particularly in highly multilingual and ecologically complex regions. My research brings together **language documentation**, **typology**, and **spatial analysis** to understand how structural patterns emerge and shift in contact zones.
 
-I work primarily in the **Eastern Himalayan region**, where deep historical multilingualism, political borders, and shifting alliances produce dynamic language ecologies that challenge existing models of typology and inheritance.
+I work primarily in the **Eastern Himalayan region**, where deep historical multilingualism, diverse ecological zones, and shifting political borders produce dynamic language ecologies that challenge existing models of typology and inheritance.
 
 ---
 
