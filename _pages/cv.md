@@ -18,6 +18,12 @@ University of Colorado Boulder, 2022–present
 Monash University, Melbourne, 2019–2022
 
 ---
+## Peer-Reviewed Articles
+
+*Submitted* **Das, Patrick.** *Complex Areas, Complex Answers: Investigating the Structure of Eastern Himalayan Region Numeral Classifiers*. Himalayan Linguistics. 
+
+*Submitted* **Das, Patrick.** *Beyond Hill and Valley: A Sociogeographic Analysis of Argument Coding Complexity in the Eastern Himalayan Region*. Journal of Linguistic Geography. 
+---
 
 ## Fellowships & Awards
 
@@ -36,17 +42,11 @@ Supports innovative dissertation research integrating language documentation, sp
 
 ---
 
-## In Preparation
-
-**Das, Patrick.** *Complex Areas, Complex Answers: Investigating the Structure of Eastern Himalayan Region Numeral Classifiers*
-
----
-
 ## Teaching Experience
 
 **Graduate Student Instructor**  
-University of Colorado Boulder, LING 1020 (Summer 2024)  
-- Designed syllabus, lectures, and assignments for an introductory course on linguistic diversity  
+University of Colorado Boulder, LING 1020: Languages of the World (Summer 2024, 2025) and LING 3430: Semantics (Summer 2026)  
+- Designed syllabus, lectures, and assignments for an introductory course on linguistic diversity and semantics  
 - Introduced students to descriptive methods and typological comparison across world languages
 
 **Graduate Teaching Assistant**  
@@ -71,6 +71,7 @@ University of Colorado Boulder, LING 1020 & LING 2000 (2022–2024)
 ## Research Interests
 
 - Areal Linguistics & Linguistic Typology  
+- Language documentation and methods
 - Trans-Himalayan, Australian, Austronesian language families  
 - Classifiers, contact zones, spatial analysis of language change
 
@@ -79,7 +80,7 @@ University of Colorado Boulder, LING 1020 & LING 2000 (2022–2024)
 ## Skills & Proficiencies
 
 **Languages**  
-English, Hindi, Bengali (native); Sylheti (heritage); Nagamese (learner); Tikhir, Khiamniungan, Maasai (fieldwork)
+English, Hindi, Bengali (native); Sylheti (heritage); Nagamese (learner); Tikhir, Maasai (fieldwork)
 
 **Research Methods**  
 - Typological analysis, elicitation, sociolinguistic interviewing  
