@@ -5,30 +5,29 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Overview
-
-I study how languages change through contact — particularly in highly multilingual and ecologically complex regions. My research brings together **language documentation**, **typology**, and **spatial analysis** to understand how structural patterns emerge and shift in contact zones.
-
-I work primarily in the **Eastern Himalayan region**, where deep historical multilingualism, diverse ecological zones, and shifting political borders produce dynamic language ecologies that challenge existing models of typology and inheritance.
-
----
-
 ## Dissertation Project  
-**Language, Space, and Contact in the Eastern Himalayas**
+**Dimensions of Variation in Tikhir, a Language of Eastern Nagaland**
 
-My dissertation investigates **Tikhir**, a Trans-Himalayan language spoken in eastern Nagaland, India. Working closely with the Tikhir community, I examine:
+My dissertation investigates **Tikhir**, a Trans-Himalayan language spoken in Eastern Nagaland, India. Working closely with the Tikhir community, I examine:
 
 - Dialectal variation across village networks  
 - Contact-driven structural change  
 - Language shift under sociopolitical pressure
 
-This project combines community-led documentation with spatial and areal analysis to understand how languages interact over time and space.
+This project combines community-led documentation with spatial and linguistic analysis to understand how languages interact over time and space.
 
 Learn more: [Tikhir documentation project](/tikhir/)  
 Supported by: [ACLS Dissertation Innovation Fellowship](https://www.acls.org/fellow-grantees/patrick-das/)
 
 ---
+## Manuscripts and Papers
 
+- *Tracing the Areality of Numeral Classifier Constructions in the Eastern Himalayan Region*. (Submitted to Himalayan Linguistics) 
+
+- *Submitted* **Das, Patrick.** *Beyond Hill and Valley: A Sociogeographic Analysis of Argument Coding Complexity in the Eastern Himalayan Region*. Journal of Linguistic Geography. 
+
+
+---
 ## Selected Talks & Presentations
 
 - **“Investigating the Structure of Eastern Himalayan Region Numeral Classifiers”**  
@@ -42,15 +41,9 @@ Supported by: [ACLS Dissertation Innovation Fellowship](https://www.acls.org/fel
 
 ---
 
-## Work in Progress
-
-- *Complex Areas, Complex Answers: Investigating the Structure of Eastern Himalayan Region Numeral Classifiers* (in prep)
-
----
-
 ## Related Pages
 
-- [Publications & Talks](/cv/) — full list in CV  
-- [Blog](/blog/) — for updates and reflections from the field  
-- [Teaching](/teaching/) — learn how I integrate research into pedagogy  
-- [About](/about/) — background, interests, and contact info
+- [Publications & Talks](/cv/)
+- [Blog](/blog/) 
+- [Teaching](/teaching/) 
+- [About](/about/)
