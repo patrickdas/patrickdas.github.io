@@ -22,9 +22,9 @@ Supported by: [ACLS Dissertation Innovation Fellowship](https://www.acls.org/fel
 ---
 ## Manuscripts and Papers
 
-- *Tracing the Areality of Numeral Classifier Constructions in the Eastern Himalayan Region*. (Submitted to Himalayan Linguistics) 
+- (Submitted) *Tracing the Areality of Numeral Classifier Constructions in the Eastern Himalayan Region*. Himalayan Linguistics.
 
-- *Submitted* **Das, Patrick.** *Beyond Hill and Valley: A Sociogeographic Analysis of Argument Coding Complexity in the Eastern Himalayan Region*. Journal of Linguistic Geography. 
+- (Submitted) **Das, Patrick.** *Beyond Hill and Valley: A Sociogeographic Analysis of Argument Coding Complexity in the Eastern Himalayan Region*. Journal of Linguistic Geography. 
 
 
 ---
