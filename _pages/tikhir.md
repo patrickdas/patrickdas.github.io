@@ -13,7 +13,7 @@ This project centers on the documentation and description of **Tikhir**, an enda
 
 ## Why Tikhir?
 
-Tikhir has never been formally described in the linguistic literature, and is under increasing pressure from both neighboring regional languages and larger sociopolitical forces. Yet, it exhibits deep internal variation — across villages and generations — that speaks to larger questions about how languages evolve under contact.
+Tikhir has never been described in the linguistic literature, and is under increasing pressure from both neighboring regional languages and larger sociopolitical forces. Yet, it exhibits deep internal variation — across villages and generations — that speaks to larger questions about how languages evolve under contact.
 
 This project documents:
 - **Dialects and variation** across villages and age groups

@@ -2,7 +2,7 @@
 layout: archive
 title: "Blog"
 permalink: /blog/
-author_profile: true
+author_profile: false
 ---
 {% for post in site.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>

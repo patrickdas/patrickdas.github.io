@@ -20,9 +20,9 @@ Monash University, Melbourne, 2019–2022
 ---
 ## Peer-Reviewed Articles
 
-*Submitted* **Das, Patrick.** *Complex Areas, Complex Answers: Investigating the Structure of Eastern Himalayan Region Numeral Classifiers*. Himalayan Linguistics. 
+*Under Review* **Das, Patrick.** *Complex Areas, Complex Answers: Investigating the Structure of Eastern Himalayan Region Numeral Classifiers*. Himalayan Linguistics. 
 
-*Submitted* **Das, Patrick.** *Beyond Hill and Valley: A Sociogeographic Analysis of Argument Coding Complexity in the Eastern Himalayan Region*. Journal of Linguistic Geography. 
+*Under Review* **Das, Patrick.** *Beyond Hill and Valley: A Sociogeographic Analysis of Argument Coding Complexity in the Eastern Himalayan Region*. Journal of Linguistic Geography. 
 ---
 
 ## Fellowships & Awards
@@ -53,18 +53,6 @@ University of Colorado Boulder, LING 1020: Languages of the World (Summer 2024, 
 University of Colorado Boulder, LING 1020 & LING 2000 (2022–2024)  
 - Led recitations, graded assignments, and created materials on linguistic analysis, phonology, syntax  
 - Delivered guest lectures on Papuan languages and language typology
-
----
-
-## Graduate Coursework Highlights
-
-- **Field Methods** (Spring 2023): *The Noun Phrase in Maasai*  
-- **Semantics & Pragmatics** (Spring 2023): *Semantic Map of Australian Privative*  
-- **Statistical Methods** (Spring 2024): *Classifier Prominence in Kotiria Narrative*  
-- **Semantic Theory** (Spring 2024): *Classifier Usage in Kotiria Narrative*  
-- **Syntactic Theory** (Spring 2024): *Areality of Counterfactual Conditionals in Papua New Guinea*  
-- **Seminar: Amazonian Languages** (Spring 2024): *Noun Classification in NW Amazonia*  
-- **Syntactic Analysis**, **Language & Geography**, **Research Methods in Linguistics**, **Cognitive Science Seminar**
 
 ---
 
