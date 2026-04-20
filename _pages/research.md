@@ -21,8 +21,7 @@ My dissertation investigates patterns of linguistic variation and change in Tikh
 
 Beyond its theoretical contributions to sociolinguistics and linguistic typology, this work also aims to support ongoing documentation and community-driven language initiatives, including the development of lexical resources and educational materials for Tikhir speakers.
 
-Learn more: [Tikhir documentation project](/tikhir/)  
-Supported by: [ACLS Dissertation Innovation Fellowship](https://www.acls.org/fellow-grantees/patrick-das/)
+This work is supported by a 2025 [ACLS/Mellon Dissertation Innovation Fellowship](https://www.acls.org/fellow-grantees/patrick-das/)
 ---
 ## Areal Features and Language Contact
 
@@ -33,7 +32,7 @@ Linguistic areas are an aspect of language contact that are still not well under
 In my work, I take some steps towards problematizing **areal features**, the unit on which claims of areality for linguistic areas are made. I develop and suggest the *contact correspondence hypothesis*: that for a linguistic trait to be considered an areal feature between two languages of an area, it must be absent in its two closest relatives that lie outside the area. On applying the contact correspondence hypothesis to numeral classifiers, I find that there is no evidence for an areal diffusion story in the Eastern Himalayan Region, counter to claims in the literature, and that instead there are genealogical signals in the structure that lie far outside the region. I plan on following this work with a meta-review on how areal features are suggested and tested. 
 
 Relevant work:
-- (Submitted) **Das, Patrick** *Tracing the Areality of Numeral Classifier Constructions in the Eastern Himalayan Region*. Himalayan Linguistics.
+- (Under Review) **Das, Patrick** *Tracing the Areality of Numeral Classifier Constructions in the Eastern Himalayan Region*. Himalayan Linguistics.
 
 - **“Investigating the Structure of Eastern Himalayan Region Numeral Classifiers”**  
   *26th Meeting of the International Conference on Historical Linguistics (2023)* — [Slides / Abstract](https://osf.io/kca4n/)
@@ -54,7 +53,7 @@ I am interested in furthering our understanding of language ecologies (how do la
 ---
 ## Historical Linguistics and Language Evolution
 
-Our understanding of 'what is borrowed' in language (under influence from other languages) is impossible without an understanding of what is conserved. Unfortunately, for many languages of the Eastern Himalayan Region, the primary foci of my research, this work is still not done due to lack of good quality, primary linguistic data on many of these languages. Together with [Kellen Parker van Dam](www.geku.uni-passau.de/en/mcl/team/kellen-parker-van-dam), I am working on a project that aims to clarify the phylogeny at the lower branches of the Trans-Himalayan language family, starting with Central Naga, the branch that Tikhir is in. 
+Our understanding of 'what is borrowed' in language (under influence from other languages) is impossible without an understanding of what is conserved. Unfortunately, for many languages of the Eastern Himalayan Region, the primary foci of my research, this work is still not done due to lack of good quality, primary linguistic data on many of these languages. Together with [Kellen Parker van Dam](https://www.geku.uni-passau.de/en/mcl/team/kellen-parker-van-dam), I am working on a project that aims to clarify the phylogeny at the lower branches of the Trans-Himalayan language family, starting with Central Naga, the branch that Tikhir is in. 
 
 I am also interested in the coevolutionary processes that lead to the development of specific traits in languages. In a project with my adviser [Hannah Haynie](https://www.colorado.edu/linguistics/hannah-haynie) and Grace Ephraums, I am investigating the coevolution of case-marking in Australian languages, a language family known for its diversity in nominal case marking. 
 
@@ -62,9 +61,9 @@ I am also interested in the coevolutionary processes that lead to the developmen
 
 ## Manuscripts and Papers
 
-- (Submitted) **Das, Patrick** *Tracing the Areality of Numeral Classifier Constructions in the Eastern Himalayan Region*. Himalayan Linguistics.
+- (In Review) **Das, Patrick** *Tracing the Areality of Numeral Classifier Constructions in the Eastern Himalayan Region*. Himalayan Linguistics.
 
-- (Submitted) **Das, Patrick.** *Beyond Hill and Valley: A Sociogeographic Analysis of Argument Coding Complexity in the Eastern Himalayan Region*. Journal of Linguistic Geography. 
+- (In Review) **Das, Patrick.** *Beyond Hill and Valley: A Sociogeographic Analysis of Argument Coding Complexity in the Eastern Himalayan Region*. Journal of Linguistic Geography. 
 
 ---
 ## Conference Presentations
@@ -86,5 +85,6 @@ I am also interested in the coevolutionary processes that lead to the developmen
 ---
 ## Roundtable Discussions
 - **Roundtable Discussion on the Politics of Indigineity in Asia**
-  *2023 Asia Symposium* - [More detail](/_talks/discussion_cas)
+  *2023 Asia Symposium* — [More detail](/talks/discussion_cas)
+
 ---

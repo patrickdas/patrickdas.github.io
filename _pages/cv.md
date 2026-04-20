@@ -12,7 +12,10 @@ You can also [download my full CV as a PDF](path/to/cv.pdf).
 ## Education
 
 **PhD Linguistics**  
-University of Colorado Boulder, 2022–present  
+University of Colorado, Boulder, 2022–present  
+
+**MA Linguistics**
+University of Colorado, Boulder, 2025
 
 **BA Linguistics (High Distinction)**  
 Monash University, Melbourne, 2019–2022
@@ -23,6 +26,7 @@ Monash University, Melbourne, 2019–2022
 *Under Review* **Das, Patrick.** *Complex Areas, Complex Answers: Investigating the Structure of Eastern Himalayan Region Numeral Classifiers*. Himalayan Linguistics. 
 
 *Under Review* **Das, Patrick.** *Beyond Hill and Valley: A Sociogeographic Analysis of Argument Coding Complexity in the Eastern Himalayan Region*. Journal of Linguistic Geography. 
+
 ---
 
 ## Fellowships & Awards
