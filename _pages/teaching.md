@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Overview
 
-As an instructor and teaching assistant in linguistics, I’m committed to fostering curiosity, analytical rigor, and inclusivity in the classroom. My teaching spans introductory and advanced topics in linguistic typology, semantics, and morphosyntax.
+As an instructor and teaching assistant in linguistics, I’m committed to fostering curiosity, analytical rigor, and inclusivity in the classroom. My teaching spans introductory and upper-division courses in linguistic diversity, typology, semantics, and language in society.
 
 I approach teaching as a collaboration — encouraging students to question assumptions, engage deeply with data, and connect linguistic theory to real-world language use.
 
@@ -15,12 +15,20 @@ I approach teaching as a collaboration — encouraging students to question assu
 
 ## Courses Taught and Supported
 
+- **[LING 3430: Semantics](/teaching/ling3430CE/)**  
+  *Instructor* (Summer 2026)  
+  Designed and taught a compressed five-week, online upper-division course surveying major approaches to the study of meaning. I used weekly readings in place of a textbook, scaffolded low-stakes worksheets ahead of graded homework, and designed assessments robust to generative AI, including a final exam built on novel datasets.
+
+- **[LING 1000: Language in US Society](/teaching/ling1000TA/)**  
+  *Teaching Assistant* (Fall 2026)  
+  Lead three recitation sections for a non-technical introductory course on language as a social institution in the US, grade student work, and hold office hours.
+
 - **[LING 1020: Languages of the World](/teaching/ling1020CE/)**  
   *Instructor* (Summer 2024 - 2025)  
   Designed and taught a remote undergraduate course introducing students to the diversity of human languages, their structures, and social functions. I used a research-led approach, assigning current typological readings in place of a textbook, and guided students through linguistic analysis via scaffolded weekly reflections and cumulative assessments.
 
 - **[LING 1020: Languages of the World](/teaching/ling1020TA/)**  
-  *Teaching Assistant* (Fall 2022 - Fall 2025)  
+  *Teaching Assistant* (Fall 2022 – Spring 2024)  
   Led discussion sections, graded assignments, and supported an introductory course on linguistic diversity, typology, and global variation.
 
 - **[LING 2000: Introduction to Linguistics](/teaching/ling2000TA/)**  

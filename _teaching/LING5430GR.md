@@ -1,6 +1,6 @@
 ---
 title: "LING 5430: Semantics and Pragmatics"
-permalink: /teaching/ling5430/
+permalink: /teaching/ling5430GR/
 collection: teaching
 type: "Teaching"
 ---

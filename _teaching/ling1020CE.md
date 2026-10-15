@@ -1,6 +1,6 @@
 ---
 title: "LING 1020: Languages of the World"
-permalink: /teaching/ling1020/
+permalink: /teaching/ling1020CE/
 collection: teaching
 type: "Teaching"
 ---

@@ -1,12 +1,12 @@
 ---
 title: "LING 1020: Languages of the World"
-permalink: /teaching/ling1020/
+permalink: /teaching/ling1020TA/
 collection: teaching
 type: "Teaching"
 ---
 
 **Role:** Teaching Assistant  
-**Terms:** Fall 2022 - Fall 2025
+**Terms:** Fall 2022 – Spring 2024
 **Institution:** University of Colorado Boulder
 
 As a TA for LING 1020, I supported an introductory course that explores the diversity of human languages around the world. My responsibilities included:

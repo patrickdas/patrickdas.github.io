@@ -1,6 +1,6 @@
 ---
 title: "LING 2000: Introduction to Linguistics"
-permalink: /teaching/ling2000/
+permalink: /teaching/ling2000TA/
 collection: teaching
 type: "Teaching"
 ---
